@@ -1,0 +1,4 @@
+name: Infinate_trades
+version: '1.0.0'
+main: com.example.infinite.trades.infinate_trades.Infinate_trades
+api-version: '1.21'
